@@ -1,4 +1,4 @@
-# 🍽️ **Assignment: Restaurant Order Processing System**
+# 🍽️ **Restaurant Order Processing System**
 
 ## 🎯 Problem Background
 
